@@ -1,18 +1,92 @@
-# 💫 About Me:
-Hi, I’m Rohan Khachane, a Java Developer with a strong foundation in Object-Oriented Programming, Backend Development, and Database Management. I focus on writing clean, efficient, and scalable Java code for real-world applications.<br><br>🧑‍💻 About Me<br><br>🔭 I’m currently working on<br>→ Java backend applications using Core Java, JDBC, Servlets, and JSP<br>→ Building database-driven systems with MySQL and Oracle<br><br>👯 I’m looking to collaborate on<br>→ Java projects, Backend systems, and enterprise-level applications<br><br>🤝 I’m looking for help with<br>→ Spring Boot, REST APIs, and backend system design<br><br>🌱 I’m currently learning<br>→ Advanced Core Java, Collections, Multithreading<br>→ Spring Boot and Hibernate<br>→ DSA in Java for interviews<br><br>💬 Ask me about<br>→ Core Java, OOP, JDBC, Servlets, JSP<br>→ SQL, Database design, Backend logic<br><br>⚡ Fun fact<br>→ I enjoy debugging Java code more than writing it 😄
+# Hello 👋 I’m Rohan Khachane  
 
+## 💡 Who Am I?  
+I’m not just learning to **code** —  
+I’m learning how to **solve problems**, **build systems**, and **grow as an engineer**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohan_khachane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-khachane-43b0aa256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohananilkhachane@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohanrk2810&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohanrk2810&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrk2810&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+A **Final Year Computer Science (Data Science) student** who enjoys turning ideas into working software and learning how real-world systems are designed, scaled, and maintained.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rohanrk2810&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 My Engineering Mindset  
+- I prefer **clean logic over complex code**  
+- I believe **databases are the backbone** of every application  
+- I value **consistency, version control, and teamwork**  
+- I learn by **building → breaking → fixing → improving**
+
+---
+
+## 🔍 What I Actually Work On  
+Instead of random tutorials, I focus on:  
+- Designing **end-to-end applications**  
+- Writing **maintainable backend logic**  
+- Understanding **how data flows** inside a system  
+- Using **Git & GitHub the right way** (branches, commits, collaboration)
+
+---
+
+## 🛠️ Tech I Use Comfortably  
+
+**Languages:**  
+- Java | JavaScript | SQL  
+
+**Frontend:**  
+- HTML | CSS | React.js  
+
+**Backend:**  
+- Node.js | Express.js  
+
+**Database:**  
+- MongoDB | MySQL  
+
+**Tools & Practices:**  
+- Git & GitHub  
+- REST APIs  
+- Basic Docker & Linux  
+- Clean folder structure & readable commits  
+
+---
+
+## 🚀 Projects That Define Me  
+- **Stock Trading Simulation Platform**  
+  → Real-time logic, user flows, backend thinking, cloud deployment  
+
+- **Version Control & Team Collaboration Platform**  
+  → Inspired by how real dev teams work  
+
+- **Professional Networking Platform**  
+  → Focused on structure, data modeling, and scalability  
+
+*(I prefer fewer meaningful projects over many incomplete ones.)*
+
+---
+
+## 📚 Learning Philosophy  
+I don’t rush to “finish courses”.  
+I aim to **understand fundamentals deeply** so switching tech becomes easy.
+
+Currently exploring:  
+- Advanced MERN concepts  
+- Database optimization  
+- Backend system design basics  
+
+---
+
+## 🎯 Career Goal  
+To grow into a **Software Engineer** who:  
+- Writes reliable code  
+- Understands systems, not just syntax  
+- Can adapt to new technologies confidently  
+
+---
+
+## 📫 Let’s Connect  
+- 📧 Email: rohananilkhachane@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rohan-khachane-43b0aa256/  
+- 🧑‍💻 GitHub: https://github.com/rohanrk2810  
+
+---
+
+> *Code is not just about making things work —  
+it’s about making them understandable, scalable, and future-ready.*  
+
