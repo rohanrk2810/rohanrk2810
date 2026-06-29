@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=250&section=header&text=Rohan%20Patil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=250&section=header&text=Rohan%20Anil%20Khachane&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=55&descSize=20" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=850&lines=Hey+%F0%9F%91%8B+I'm+Rohan+Patil!;Java+%26+Spring+Boot+Developer;Full+Stack+%7C+AI+Integration+%7C+Microservices;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=850&lines=Hey+%F0%9F%91%8B+I'm+Rohan+Khachane!;Java+%26+Spring+Boot+Developer;Full+Stack+%7C+AI+Integration+%7C+Microservices;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <!-- Badges -->
@@ -13,13 +13,13 @@
   <a href="mailto:rohananilkhachane@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rohan-khachane-43b0aa256/">
+  <a href="https://linkedin.com/in/rohan-khachane">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/rohanrk2810">
+  <a href="https://github.com/rohan-khachane">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rohanpatil&style=for-the-badge&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=rohan-khachane&style=for-the-badge&color=orange" />
 </p>
 
 </div>
@@ -265,16 +265,16 @@ An **AI-powered full-stack website builder** — generate complete websites from
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanpatil&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=F7931E&icon_color=F7931E&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpatil&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7931E&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan-khachane&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=F7931E&icon_color=F7931E&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-khachane&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7931E&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanpatil&theme=radical&hide_border=true&background=0d1117&stroke=F7931E&ring=F7931E&fire=ff6b6b&currStreakLabel=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-khachane&theme=radical&hide_border=true&background=0d1117&stroke=F7931E&ring=F7931E&fire=ff6b6b&currStreakLabel=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanpatil&bg_color=0d1117&color=F7931E&line=F7931E&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-khachane&bg_color=0d1117&color=F7931E&line=F7931E&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -332,14 +332,18 @@ I'm always open to discussing:
 <br/>
 
 <p>
-  <a href="mailto:er.rohanpatil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-er.rohanpatil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rohananilkhachane@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohananilkhachane@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/rohanpatil">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohan_Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/rohan-khachane">
+    <a href="tel:+919023006821">
+    <img src="https://img.shields.io/badge/Phone-9023006821-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rohan-khachane-43b0aa256">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohan_Khachane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
