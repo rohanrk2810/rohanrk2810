@@ -1,33 +1,32 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Rohan%20Khachane&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Java%20Developer%20%7C%20Backend%20Development%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=250&section=header&text=Rohan%20Patil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20%7C%20AI%20Integration&descAlignY=55&descSize=20" width="100%" />
 
 <!-- Typing Animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=800&lines=Hello+%F0%9F%91%8B+I'm+Rohan+Khachane;Java+Backend+Developer;Building+Scalable+%26+Efficient+Systems;Clean+Code+%7C+Strong+Logic+%7C+Solid+Foundations" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=850&lines=Hey+%F0%9F%91%8B+I'm+Rohan+Patil!;Java+%26+Spring+Boot+Developer;Full+Stack+%7C+AI+Integration+%7C+Microservices;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+</a>
 
-<!-- Profile Badges -->
+<!-- Badges -->
 <p align="center">
-  <a href="mailto:er.rohankhachane@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:rohananilkhachane@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/rohan-khachane-43b0aa256">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/rohan-khachane-43b0aa256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/rohanrk2810">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rohanpatil&style=for-the-badge&color=orange" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
@@ -39,10 +38,12 @@
 
 ### 🚀 About Me
 
-I'm not just learning to **code** —  
-I'm learning how to **solve problems**, **build systems**, and **grow as an engineer**.
+I'm a **Final Year B.Tech CSE (Data Science)** student from **GHRCEM Jalgaon**,  
+currently working as a **Java Developer Intern at Mediawerse Solutions, Pune**.
 
-A **Final Year Computer Science (Data Science) student** passionate about backend development, turning ideas into working software, and understanding how real-world systems are designed, scaled, and maintained.
+I don't just write code — I **design systems**, **integrate AI**, and **build products** that actually work.
+
+From distributed payment gateways to AI-powered website builders — I love solving real problems with clean, scalable backend architecture.
 
 </td>
 <td width="50%" valign="top">
@@ -50,78 +51,39 @@ A **Final Year Computer Science (Data Science) student** passionate about backen
 ### 🎯 Quick Facts
 
 ```java
-Developer profile = new Developer() {
-    String role = "Backend Developer";
-    String focus = "Core Java, JDBC, Servlets, JSP";
-    String education = "CS (Data Science) - Final Year";
-    String motto = "Clean Logic > Complex Code";
-    boolean learningByDoing = true;
-};
+Developer rohan = new Developer();
+rohan.name        = "Rohan Anil Khachane";
+rohan.role        = "Java Developer & Full Stack Engineer";
+rohan.stack       = ["Java", "Spring Boot", "React", "SQL"];
+rohan.ai          = ["Spring AI", "RAG", "Vector DB"];
+rohan.location    = "Hinjewadi, Pune 🇮🇳";
+rohan.education   = "B.Tech CSE Data Science '26";
+rohan.motto       = "Build systems that scale.";
+rohan.openTo      = "Full-time SWE Roles";
 ```
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
 ## 🧠 My Engineering Mindset
 
 <p align="center">
-<img src="https://img.shields.io/badge/Clean_Logic-Over_Complex_Code-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Databases-Are_The_Backbone-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Consistency-Version_Control-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-Build_Break_Fix_Improve-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_First-Microservices_Mindset-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Integration-Spring_AI_%7C_RAG-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_APIs-RESTful_%26_Documented-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ship_Real-Not_Just_Tutorials-red?style=for-the-badge" />
 </p>
 
-<br/>
-
 ```diff
-+ ✅ I prefer clean logic over complex code
-+ ✅ I believe databases are the backbone of every application
-+ ✅ I value consistency, version control, and teamwork
-+ ✅ I learn by building → breaking → fixing → improving
++ ✅ I design distributed systems, not just CRUD apps
++ ✅ I integrate AI into full-stack products (Spring AI, RAG, Vector DBs)
++ ✅ I think in APIs — clean contracts, proper status codes, versioning
++ ✅ I build → break → fix → optimize (and push to GitHub)
++ ✅ Long-term goal: Build my own IT product company 🚀
 ```
-
-<br/>
-
----
-
-## 🔍 What I Actually Work On
-
-Instead of random tutorials, I focus on:
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 My Approach
-
-- 🏗️ Designing **end-to-end applications**
-- 💻 Writing **maintainable backend logic**
-- 🔄 Understanding **how data flows** inside a system
-- 🌲 Using **Git & GitHub the right way** (branches, commits, collaboration)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Learning Philosophy
-
-I don't rush to "finish courses".  
-I aim to **understand fundamentals deeply** so switching tech becomes easy.
-
-**Currently exploring:**
-- Advanced MERN concepts
-- Database optimization
-- Backend system design basics
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ---
 
@@ -130,14 +92,14 @@ I aim to **understand fundamentals deeply** so switching tech becomes easy.
 <div align="center">
 
 ### 💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,mysql" alt="Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,sql" />
 </p>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
@@ -149,21 +111,18 @@ I aim to **understand fundamentals deeply** so switching tech becomes easy.
 
 <div align="center">
 
-### ☕ Backend & Core Java
-
-<img src="https://skillicons.dev/icons?i=java" width="60" />
+### ☕ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,java" width="80" />
 
 </div>
 
-<br/>
-
 ```
-• Core Java
-• JDBC (Database Connectivity)
-• Servlets
-• JSP (JavaServer Pages)
-• Node.js
-• Express.js
+• Spring Boot (REST APIs, Microservices)
+• Spring AI (AI-powered backend)
+• Spring Security (JWT, OAuth2)
+• Spring MVC
+• JDBC / JPA / Hibernate
+• Maven
 ```
 
 </td>
@@ -171,20 +130,18 @@ I aim to **understand fundamentals deeply** so switching tech becomes easy.
 
 <div align="center">
 
-### 🎨 Frontend Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
 
 </div>
 
-<br/>
-
 ```
-• HTML5
-• CSS3
 • React.js
+• HTML5 & CSS3
 • Responsive Design
-• Modern UI Principles
+• Tailwind CSS
+• REST API Integration
+• Component-based Architecture
 ```
 
 </td>
@@ -195,20 +152,18 @@ I aim to **understand fundamentals deeply** so switching tech becomes easy.
 
 <div align="center">
 
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+### 🗄️ Databases & AI/ML
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
 </div>
 
-<br/>
-
 ```
+• MySQL / PostgreSQL
 • MongoDB (NoSQL)
-• MySQL (Relational)
-• Data Modeling
-• Query Optimization
-• Database Design
+• Vector Databases (AI Search)
+• RAG (Retrieval-Augmented Generation)
+• Prompt Engineering
+• Spring AI Integration
 ```
 
 </td>
@@ -216,28 +171,23 @@ I aim to **understand fundamentals deeply** so switching tech becomes easy.
 
 <div align="center">
 
-### 🔧 Tools & Practices
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+### 🔧 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
 </div>
 
-<br/>
-
 ```
 • Git & GitHub
-• REST APIs
 • Docker (Basics)
-• Linux/Unix
-• Clean Folder Structure
-• Readable Commits
+• Postman (API Testing)
+• IntelliJ IDEA / VS Code
+• Swagger / OpenAPI
+• Agile / Scrum
 ```
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -245,7 +195,7 @@ I aim to **understand fundamentals deeply** so switching tech becomes easy.
 
 <div align="center">
 
-### 📌 I prefer fewer meaningful projects over many incomplete ones
+### 📌 Quality over quantity — every project solves a real problem
 
 </div>
 
@@ -253,49 +203,61 @@ I aim to **understand fundamentals deeply** so switching tech becomes easy.
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top" align="center">
 
-### 📈 Stock Trading Platform
+### 💳 Distributed Payment Gateway System
 
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-Java_%7C_Spring_Boot_%7C_MySQL-blue?style=for-the-badge" />
 
-Real-time trading simulation with:
-- User authentication flows
-- Backend business logic
-- Cloud deployment
-- Data management
+A **fault-tolerant, distributed payment gateway** built using microservices architecture.
 
-</td>
-<td width="33%" align="center">
-
-### 🔄 Version Control Platform
-
-<img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge" />
-
-Understanding team collaboration:
-- Git-like functionality
-- Team workflows
-- Code versioning
-- Project structure
+**Key Highlights:**
+- ⚡ Handles concurrent transactions with async event-driven design
+- 🔐 Spring Security + JWT — PCI-DSS-compliant flows
+- 🔁 Idempotency keys + retry logic — zero duplicate charges
+- 📉 40% reduced latency via MySQL indexing & connection pooling
+- 📄 Swagger-documented REST APIs for merchant onboarding & settlements
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top" align="center">
 
-### 🤝 Professional Network
+### 🤖 AI Website Builder (Lovable Clone)
 
-<img src="https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-Spring_AI_%7C_React_%7C_PostgreSQL-orange?style=for-the-badge" />
 
-Focus on architecture:
-- Database modeling
-- Scalable structure
-- System design
-- Performance optimization
+An **AI-powered full-stack website builder** — generate complete websites from plain English prompts.
+
+**Key Highlights:**
+- 🧠 Spring AI + RAG pipeline + Vector DB for context-aware code generation
+- ⚛️ React.js editor with live preview & drag-and-drop components
+- 🗄️ Multi-tenant Spring Boot backend — version history & template library
+- 🎯 Prompt engineering layer for accessible, responsive, SEO-friendly output
+- 📦 One-click HTML/CSS export for end users
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## 💼 Experience
+
+<div align="center">
+
+| Role | Company | Duration | Location |
+|------|---------|----------|----------|
+| ☕ **Java Developer Intern** | Mediawerse Solutions | Jan 2024 – Present | Pune, India |
+
+</div>
+
+**What I actually did there:**
+- 🔧 Built REST microservices (Spring Boot) handling **10k+ daily transactions** at 99.9% uptime
+- 📊 Optimized SQL schemas → **35% query performance improvement**
+- 🤖 Integrated Spring AI for intelligent document processing features
+- ⚛️ Developed React.js dashboards → **25% faster page load**
+- 🔄 Active in Agile sprints, code reviews, CI/CD pipelines
 
 ---
 
@@ -303,16 +265,18 @@ Focus on architecture:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohan-khachane&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=F7931E&icon_color=F7931E&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-khachane&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7931E&text_color=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-khachane&theme=radical&hide_border=true&background=0d1117&stroke=F7931E&ring=F7931E&fire=ff6b6b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanpatil&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=F7931E&icon_color=F7931E&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanpatil&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7931E&text_color=c9d1d9" />
 
 <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanpatil&theme=radical&hide_border=true&background=0d1117&stroke=F7931E&ring=F7931E&fire=ff6b6b&currStreakLabel=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanpatil&bg_color=0d1117&color=F7931E&line=F7931E&point=ffffff&hide_border=true" />
+
+</div>
 
 ---
 
@@ -324,31 +288,29 @@ Focus on architecture:
 <tr>
 <td align="center" width="33%">
 
-### 🎓 Deep Learning
-Understanding fundamentals deeply  
-rather than rushing through tutorials
+### 🏗️ Real Systems
+Building actual distributed systems —  
+not just tutorial projects
 
 </td>
 <td align="center" width="33%">
 
-### 🔨 Hands-On Building
-Learning by actually building,  
-breaking, and fixing things
+### 🤖 AI + Backend
+Combining Spring AI with  
+backend engineering to build smart products
 
 </td>
 <td align="center" width="33%">
 
-### 🌱 Continuous Growth
-Focused on becoming a better  
-engineer every single day
+### 🚀 Entrepreneur at Heart
+Long-term goal: Build my own  
+IT product company from Pune 🇮🇳
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<br/>
 
 ---
 
@@ -359,33 +321,34 @@ engineer every single day
 I'm always open to discussing:
 
 ```
-☕ Backend Development & System Design
-🗄️ Database Architecture & Optimization
-🔧 Clean Code Practices
-🤝 Collaboration & Open Source
-💡 Learning Experiences & Best Practices
+☕ Java Backend & Spring Boot Architecture
+🤖 AI Integration — Spring AI, RAG, LLMs
+💳 Fintech & Distributed Systems
+⚛️  Full Stack Product Development
+🚀 Startup Ideas & SaaS Products
+🤝 Internship / Full-time SWE Opportunities
 ```
 
 <br/>
 
-<p align="center">
-  <a href="mailto:er.rohankhachane@gmail.com">
-    <img src="https://img.shields.io/badge/Email-er.rohankhachane@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p>
+  <a href="mailto:er.rohanpatil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-er.rohanpatil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rohan-khachane-43b0aa256">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohan_Khachane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p>
+  <a href="https://linkedin.com/in/rohanpatil">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohan_Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
-**"Building scalable, efficient, and clean backend systems — one commit at a time."**
+**"Build systems that scale. Write code that lasts. Ship products that matter."** 🚀
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer" width="100%" />
 
 </div>
