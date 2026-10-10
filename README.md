@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=260&section=header&text=Rohan%20Anil%20Khachane&fontSize=62&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Java%20Backend%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20AI%2FGenAI%20%E2%80%A2%20GCP&descAlignY=60&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=250&section=header&text=Rohan%20Khachane&fontSize=64&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Associate%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Spring%20AI&descAlignY=58&descSize=20" width="100%" alt="header" />
 
 <!-- ═══════════════ TYPING ═══════════════ -->
 <a href="https://github.com/rohan-khachane">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Rohan+Khachane!;Java+%26+Spring+Boot+Developer;AI+%2F+GenAI+%7C+GCP+%7C+Microservices;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Rohan+Khachane!;Java+%26+Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Docker+%7C+Kubernetes;Spring+AI+%7C+LLM+Integration+%7C+RAG" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Entry--level%20SWE%20%2F%20Java%20Backend%20Roles-F7931E?style=flat-square&logo=target&logoColor=white" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Location-Hinjewadi%2C%20Pune%20%F0%9F%87%AE%F0%9F%87%B3-1f6feb?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Entry--level%20SWE%20%2F%20Java%20Backend%20Roles-F7931E?style=flat-square" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra%2C%20India-1f6feb?style=flat-square" alt="Location" />
 </p>
 
 </div>
@@ -35,11 +35,11 @@
 
 ### 🚀 About Me
 
-I'm a **B.Tech Computer Engineering graduate (2026)** from **GHRCEM Jalgaon**.
+I'm a **Computer Science Engineering (Data Science) graduate (2026)** from **G.H. Raisoni College of Engineering and Management**.
 
-I don't just write code — I **design systems, integrate AI, and build products** that solve practical problems.
+I build **backend systems with Java and Spring Boot** — REST APIs, JPA/Hibernate, Spring Security (JWT), microservices with Kafka, and containerized deployments with Docker and Kubernetes.
 
-My interests: **Java backend development**, **cloud technologies**, and **AI-powered applications**, with a focus on clean APIs and scalable architecture.
+I also work with **Spring AI, LLM integration and RAG** to bring AI into real applications.
 
 </td>
 <td width="50%" valign="top">
@@ -49,13 +49,14 @@ My interests: **Java backend development**, **cloud technologies**, and **AI-pow
 ```java
 Developer rohan = new Developer();
 
-rohan.name      = "Rohan Anil Khachane";
-rohan.role      = "Java Developer & Full Stack Engineer";
-rohan.stack     = ["Java", "Spring Boot", "React", "SQL", "GCP"];
-rohan.ai        = ["Spring AI", "GenAI", "RAG", "Vector DB", "LLMs"];
-rohan.location  = "Hinjewadi, Pune 🇮🇳";
-rohan.education = "B.Tech Computer Engineering, 2026";
-rohan.motto     = "Build systems that scale.";
+rohan.name      = "Rohan Khachane";
+rohan.role      = "Associate Software Engineer";
+rohan.stack     = ["Java", "Spring Boot", "JPA/Hibernate", "SQL"];
+rohan.arch      = ["Microservices", "Kafka", "Clean Architecture"];
+rohan.devops    = ["Docker", "Kubernetes", "Google Cloud", "CI/CD"];
+rohan.ai        = ["Spring AI", "LLM Integration", "RAG"];
+rohan.education = "B.Tech CSE (Data Science), 2026";
+rohan.location  = "Pune, India 🇮🇳";
 rohan.openTo    = "Entry-level SWE / Java Backend Roles";
 ```
 
@@ -65,19 +66,18 @@ rohan.openTo    = "Entry-level SWE / Java Backend Roles";
 
 <br/>
 
-## 🧠 My Engineering Mindset
+## 🧠 How I Work
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend_First-Microservices_Mindset-F7931E?style=for-the-badge" alt="Backend First" />
+  <img src="https://img.shields.io/badge/Backend_First-Microservices-F7931E?style=for-the-badge" alt="Backend First" />
   <img src="https://img.shields.io/badge/AI_Integration-Spring_AI_%7C_RAG-1f6feb?style=for-the-badge" alt="AI Integration" />
-  <img src="https://img.shields.io/badge/Clean_APIs-RESTful_%26_Documented-2ea043?style=for-the-badge" alt="Clean APIs" />
-  <img src="https://img.shields.io/badge/Ship_Real-Not_Just_Tutorials-e5534b?style=for-the-badge" alt="Ship Real" />
+  <img src="https://img.shields.io/badge/Clean_APIs-Documented_%26_Tested-2ea043?style=for-the-badge" alt="Clean APIs" />
 </p>
 
-> ✅ I design **distributed systems**, not just CRUD apps
-> ✅ I integrate **AI into full-stack products** (Spring AI, RAG, Vector DBs)
-> ✅ I think in **APIs** — clean contracts, proper status codes, versioning
-> ✅ I **build → break → fix → optimize** (and push to GitHub)
+> ✅ Clean, documented REST APIs (Postman + Swagger/OpenAPI)
+> ✅ Unit testing with JUnit & Mockito
+> ✅ System design with HLD / LLD and design patterns
+> ✅ AI inside real backends — Spring AI, prompt engineering, tool calling, RAG
 > ✅ Long-term goal: **build my own IT product company** 🚀
 
 <br/>
@@ -91,19 +91,19 @@ rohan.openTo    = "Entry-level SWE / Java Backend Roles";
 <td align="center" width="25%"><b>💻 Languages</b></td>
 <td align="center" width="25%"><b>☕ Backend</b></td>
 <td align="center" width="25%"><b>🎨 Frontend</b></td>
-<td align="center" width="25%"><b>🗄️ Data & AI</b></td>
+<td align="center" width="25%"><b>🗄️ Databases</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=java,js,python,html,css&perline=3" alt="languages" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=spring,maven,hibernate&perline=3" alt="backend" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css&perline=4" alt="frontend" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" alt="databases" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java,js&perline=3" alt="languages" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring,kafka,hibernate&perline=3" alt="backend" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&perline=3" alt="frontend" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres&perline=3" alt="databases" /></td>
 </tr>
 <tr>
-<td align="center" colspan="4"><b>🔧 Tools & DevOps</b></td>
+<td align="center" colspan="4"><b>🔧 DevOps, Cloud & Tools</b></td>
 </tr>
 <tr>
-<td align="center" colspan="4"><img src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,postman,idea,vscode&perline=8" alt="tools" /></td>
+<td align="center" colspan="4"><img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,git,github,githubactions,postman&perline=7" alt="tools" /></td>
 </tr>
 </table>
 
@@ -115,100 +115,55 @@ rohan.openTo    = "Entry-level SWE / Java Backend Roles";
 
 | Area | What I work with |
 |:--|:--|
-| ☕ **Backend & Frameworks** | Spring Boot (REST APIs, Microservices) · Spring AI · Spring Security (JWT, OAuth2) · Spring MVC · JDBC / JPA / Hibernate · Maven |
-| 🎨 **Frontend** | React.js · HTML5 & CSS3 · Tailwind CSS · Responsive Design · REST API Integration · Component-based Architecture |
-| 🗄️ **Databases** | MySQL · PostgreSQL · MongoDB (NoSQL) |
-| 🤖 **AI / GenAI** | RAG (Retrieval-Augmented Generation) · Vector Databases (ChromaDB / AI Search) · Prompt Engineering & LLM Integration · Spring AI · GenAI & Agentic AI concepts |
-| 🔧 **Tools & DevOps** | Git & GitHub · Google Cloud Platform (GCP) · Docker · Postman · IntelliJ IDEA / VS Code · Swagger / OpenAPI · GitHub Actions / CI/CD fundamentals · Agile / Scrum |
+| ☕ **Backend** | Spring Boot · Spring MVC · REST APIs · JPA · Hibernate · Spring Security · JWT · Microservices · Apache Kafka |
+| 🧪 **Testing & Quality** | JUnit · Mockito · Unit Testing · API Testing (Postman) · Debugging & Exception Handling |
+| 🏗️ **System Design** | HLD · LLD · Design Patterns · Clean Architecture · REST API Design · OOP |
+| 🗄️ **Databases** | MySQL · PostgreSQL |
+| ☁️ **DevOps & Cloud** | Docker · Kubernetes · Google Cloud · GitHub · CI/CD · MinIO |
+| 🤖 **Generative AI** | Spring AI · LLM Integration · RAG · Prompt Engineering · Tool Calling |
+| 🎨 **Frontend** | React.js |
+| 📋 **Process** | Agile · Waterfall · SDLC · Technical Documentation |
 
 </details>
 
 <br/>
 
-## 🚀 Projects That Define Me
+## 🚀 Projects
 
-<div align="center">
+### 🤖 Distributed AI-Powered Application Builder
 
-**📌 Quality over quantity — every project solves a real problem**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-</div>
+An AI-powered application builder that **generates application components from user requirements**.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🧠 AI code generation with LLM integration, prompt engineering, RAG and tool calling
+- 🏗️ Microservices architecture with API Gateway and event-driven communication via **Apache Kafka**
+- 🔐 Authentication & authorization with Spring Security, JWT and role-based access control
+- 💳 Stripe payment integration and webhooks, using the **Saga pattern** for distributed transactions
+- ⚡ Performance work: multithreading, concurrency, caching, asynchronous programming
+- 🚢 Containerized with Docker, deployed with Kubernetes, Google Cloud and GitHub Actions CI/CD
+- 📄 All APIs unit-tested and documented with Postman and Swagger/OpenAPI
 
-### 🎓 Learning Management System (LMS)
-
-![Project](https://img.shields.io/badge/Project-LMS-1f6feb?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Education_Platform-F7931E?style=flat-square)
-
-A learning platform concept connecting **institutes, instructors, and students** in one place.
-
-- 🏫 Multi-institute learning platform
-- 🎥 Live classes and recorded lectures
-- 📝 Quizzes, assessments, and student feedback
-- 🔐 Student sessions and attendance management
-- 🤖 Scope for AI-powered learning features
-
-**Stack:** `Java` `Spring Boot` `React` `SQL` `REST APIs`
-
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 💳 Payment Gateway System
 
-![Project](https://img.shields.io/badge/Project-Payment_Gateway-2ea043?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Java_%7C_Spring_Boot_%7C_SQL-1f6feb?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 A backend-focused payment gateway exploring **payment workflows and service integration**.
 
 - ⚡ REST APIs for payment operations
 - 🔔 Webhook-based event notifications
 - 🔐 Authentication and transaction-status handling
-- 🔁 Idempotency, retries, and reliable processing
-- 📄 API documentation and merchant integration concepts
 
 **Repository:** [`PaymentGatewaySystem`](https://github.com/rohan-khachane/PaymentGatewaySystem)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 GenBuilder AI — AI-Powered App Builder
-
-![Project](https://img.shields.io/badge/Project-GenBuilder_AI-F7931E?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-GenAI_%7C_RAG-1f6feb?style=flat-square)
-
-An AI application-builder concept that turns **natural-language prompts into web app experiences**.
-
-- 🧠 LLM integration and AI-assisted code generation
-- 🔎 RAG and vector search for contextual responses
-- ⚛️ Full-stack workflow and live-preview concepts
-- 🧩 Prompt engineering and reusable templates
-
-**Stack:** `Spring AI` `RAG` `Vector DB` `React` `REST APIs`
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ Agentic AI Travel Planner
-
-![Project](https://img.shields.io/badge/Project-AI_Travel_Planner-2ea043?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Agentic_AI-1f6feb?style=flat-square)
-
-An AI travel-planning concept using **agent-based workflows** to organize trips and itineraries.
-
-- 🗺️ Trip and itinerary planning
-- 🤖 Multi-agent task orchestration
-- 🧠 LLM-powered recommendations
-- 🔌 API integration for travel information
-
-**Stack:** `Python` `CrewAI` `LLMs` `API integration`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -218,17 +173,23 @@ An AI travel-planning concept using **agent-based workflows** to organize trips 
 
 | Role | Company | Duration | Location |
 |:--:|:--:|:--:|:--:|
-| ☕ **Java Developer Intern** | Mediawerse Solutions | Jan 2024 – Present | Pune, India |
+| ☕ **Software Development Intern** | Litecode Software Pvt. Ltd. | Nov 2025 – May 2026 | Pune, India |
 
 </div>
 
-**What I actually did there:**
+- 🏢 Worked on an **ERP application** using Java and Spring Boot in an Agile environment, building backend features from business and IT requirements
+- 🔧 Developed **REST APIs, CRUD operations, business logic and validation** using Spring Boot, JPA/Hibernate and SQL
+- 🧪 Performed unit testing and debugging, and handled exception management across modules
+- 📮 API testing with Postman, technical documentation, and Git/GitHub collaboration on features and issue resolution
 
-- 🔧 Built **REST microservices (Spring Boot)** handling **10k+ daily transactions** at **99.9% uptime**
-- 📊 Optimized SQL schemas → **35% query performance improvement**
-- 🤖 Integrated **Spring AI** for intelligent document processing features
-- ⚛️ Developed **React.js dashboards** → **25% faster page load**
-- 🔄 Active in Agile sprints, code reviews, and CI/CD pipelines
+<br/>
+
+## 🎓 Education & Certification
+
+| | |
+|:--|:--|
+| 🎓 **B.Tech — Computer Science Engineering (Data Science)** | G.H. Raisoni College of Engineering and Management · 2022 – 2026 · CGPA 7.61 / 10 |
+| 📜 **Full Stack Java Development** | Naresh IT, Hyderabad |
 
 <br/>
 
@@ -251,53 +212,23 @@ An AI travel-planning concept using **agent-based workflows** to organize trips 
 
 <br/>
 
-## 🎯 What Drives Me
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🏗️ Real Systems
-Building actual distributed systems —<br/>not just tutorial projects
-
-</td>
-<td align="center" width="33%">
-
-### 🤖 AI + Backend
-Combining Spring AI with backend<br/>engineering to build smart products
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Entrepreneur at Heart
-Long-term goal: build my own<br/>IT product company from Pune 🇮🇳
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
 ## 💬 Let's Connect!
 
 <div align="center">
 
-I'm always open to discussing:
-
-`☕ Java Backend & Spring Boot Architecture` · `🤖 AI Integration — Spring AI, RAG, LLMs`
-`💳 Fintech & Distributed Systems` · `⚛️ Full Stack Product Development`
-`🚀 Startup Ideas & SaaS Products` · `🤝 Internship / Full-time SWE Opportunities`
+I'm open to **Java backend / Software Engineer roles**, and always happy to talk about
+**Spring Boot architecture · Microservices · Spring AI & RAG · SaaS ideas**.
 
 <br/>
 
 <a href="mailto:rohananilkhachane@gmail.com"><img src="https://img.shields.io/badge/Email-rohananilkhachane@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/rohan-khachane-43b0aa256/"><img src="https://img.shields.io/badge/LinkedIn-Rohan_Khachane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<br/><br/>
+<br/>
+
+🔗 **LinkedIn:** [linkedin.com/in/rohan-khachane-43b0aa256](https://www.linkedin.com/in/rohan-khachane-43b0aa256/)
+
+<br/>
 
 *"Build systems that scale. Write code that lasts. Ship products that matter."* 🚀
 
